@@ -1,13 +1,8 @@
 # Documentation example
 
 This is an example of the stub that will be generated:
-https://ziacreatesideas.github.io/SPHINX_GETTING_STARTED_TEMPLATE/
+https://ziacreatesideas.github.io/NO_GUI_TALK/
 
-After you clone this repo, you will need to follow the install directions here:
-https://ziacreatesideas.github.io/STUDY_SPHINX-MYST
+Like Blade Runner's fictional Esper machine, LLM's now allow creators to bypass GUI designs which require visual attention. Instead creativity can now flow through the keyboard, bringing artists closer to be able to create at the speed of thought. 
 
-
-We use this example in one [CodeRefinery](https://coderefinery.org/) lesson:
-- https://coderefinery.github.io/documentation/
-# JustATest
 # NO_GUI_TALK
