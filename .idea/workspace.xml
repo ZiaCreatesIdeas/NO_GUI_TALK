@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aaf3d54-50ad-4257-b5f7-5feb550bfd38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +52,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="132">
-                <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -102,8 +101,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
-    <option name="y" value="38" />
+    <option name="x" value="656" />
+    <option name="y" value="108" />
     <option name="width" value="1894" />
     <option name="height" value="1241" />
   </component>
@@ -112,22 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -170,7 +154,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="38" width="1894" height="1241" extended-state="0" />
+    <frame x="656" y="108" width="1894" height="1241" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14095035" />
@@ -204,21 +188,13 @@
     <entry file="file://$PROJECT_DIR$/doc/Images/copy_button/copy_button_03.png" />
     <entry file="file://$PROJECT_DIR$/doc/Images/copy_button/copy_button_04.png" />
     <entry file="file://$PROJECT_DIR$/doc/Images/copy_button/copy_button_05.png" />
-    <entry file="file://$PROJECT_DIR$/_build/_static/css/theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="3" column="95071" selection-start-line="3" selection-start-column="95071" selection-end-line="3" selection-end-column="95071" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/_static/css/theme.css" />
     <entry file="file://$PROJECT_DIR$/doc/usage.rst" />
     <entry file="file://$PROJECT_DIR$/doc/purpose.rst" />
     <entry file="file://$PROJECT_DIR$/doc/dependencies.rst" />
     <entry file="file://$PROJECT_DIR$/doc/target.rst" />
     <entry file="file://$PROJECT_DIR$/doc/steps-needed.rst" />
-    <entry file="file://$PROJECT_DIR$/_build/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/index.html" />
     <entry file="file://$PROJECT_DIR$/environment.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -253,9 +229,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/credit.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/resources.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -266,11 +239,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/doc/credit.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="132">
-            <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
